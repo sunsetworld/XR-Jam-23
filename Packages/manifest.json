@@ -1,10 +1,5 @@
 {
   "dependencies": {
-    "com.unity.feature.ar": "1.0.1",
-<<<<<<< HEAD
-=======
-    "com.unity.postprocessing": "3.2.2",
->>>>>>> room
     "com.unity.toolchain.win-x86_64-linux-x86_64": "2.0.6",
     "com.unity.xr.arfoundation": "5.1.0",
     "com.unity.xr.hands": "1.3.0",
@@ -41,6 +36,8 @@
     "com.unity.modules.video": "1.0.0",
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
-    "com.unity.modules.xr": "1.0.0"
+    "com.unity.modules.xr": "1.0.0",
+    "com.unity.postprocessing": "3.2.2",
+    "com.unity.feature.ar": "1.0.1"
   }
 }
