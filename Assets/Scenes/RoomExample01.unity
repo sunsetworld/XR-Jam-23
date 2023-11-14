@@ -669,6 +669,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 935293889818274026, guid: 0194c81ea51b80e41afb4d64b8272a77, type: 3}
+      propertyPath: m_TargetTexture
+      value: 
+      objectReference: {fileID: 8400000, guid: cc2f1363f49e2a34e86b6ae87012c306, type: 2}
     - target: {fileID: 1228843854171686526, guid: 0194c81ea51b80e41afb4d64b8272a77, type: 3}
       propertyPath: m_Name
       value: SecuritySystem
